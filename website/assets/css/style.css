@@ -1,7 +1,34 @@
 body{
     background:white;
 }
+.border{
+    border: none;
+}
 
 body {
     background: white;
+}
+
+
+.btn-primary {
+    margin: 10px;
+}
+
+.footer {
+    text-align: right;
+}
+.container-fluid1 {
+    background: rgb(237, 237, 237);
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+}
+.col-md-3 {
+    width: 18%;
+    text-align: center;
+    padding: none;
+}
+.col-md-9 {
+    width: 70%;
+    padding: none;
 }
