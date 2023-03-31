@@ -1,3 +1,9 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.muted {
+    color: grey;
+}
+p {
+    font-size: larger;
 }
