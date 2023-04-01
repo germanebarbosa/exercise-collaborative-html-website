@@ -1,19 +1,21 @@
 body{
-    background:white;
+    background: white;
+}
+.muted {
+    color: grey;
+}
+p {
+    font-size: larger;
 }
 .border{
     border: none;
 }
-
 body {
     background: white;
 }
-
-
 .btn-primary {
     margin: 10px;
 }
-
 .footer {
     text-align: right;
 }
